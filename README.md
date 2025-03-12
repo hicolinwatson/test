@@ -1,2 +1,2 @@
-# test 6
-hello world
+# test 7
+hello world NIGHT!
